@@ -11,6 +11,9 @@ Generate images, videos, voices and music from a single interface.
 
 <img width="1492" height="939" alt="HVeDHrLacAAAvBf" src="https://github.com/user-attachments/assets/ee315a5b-4f30-433b-af5e-24e6ffd4646d" />
 
+Please note that this app is primarily in Japanese.
+If you wish to use it in another language, please enable your browser's built-in translation feature.
+
 ## Features
 
 ### Image Generation
