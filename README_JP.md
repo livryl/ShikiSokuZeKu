@@ -2,6 +2,8 @@
 
 ComfyUIを簡単に扱うための統合UIです。
 
+### ダウンロードはこちら(Zipです) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0
+
 ## 主な機能
 
 - 画像生成 (T2I)
