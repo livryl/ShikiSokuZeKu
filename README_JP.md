@@ -1,4 +1,4 @@
-# Shiki Soku Ze Ku
+# Shiki Soku Ze Ku (色即是空)
 
 ComfyUIを簡単に扱うための統合UIです。
 
