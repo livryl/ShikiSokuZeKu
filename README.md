@@ -1,5 +1,7 @@
 # Shiki Soku Ze Ku
 
+English | [日本語](README_JP.md)
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![ComfyUI](https://img.shields.io/badge/Backend-ComfyUI-orange)
@@ -14,7 +16,9 @@ Generate images, videos, voices and music from a single interface.
 Please note that this app is primarily in Japanese.
 If you wish to use it in another language, please enable your browser's built-in translation feature.
 
-### Download Zip → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0
+### Download (zip) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0
+
+Please use the zip file listed under **Assets** on the release page (not "Source code").
 
 ## Features
 
@@ -24,7 +28,8 @@ If you wish to use it in another language, please enable your browser's built-in
 - PNG Info import
 - Model browser with thumbnails
 - LoRA management
-- Prompt autocomplete (Danbooru tags)
+- Prompt autocomplete (Danbooru tags, data not included - see Notes)
+- Optional prompt expansion / translation (Japanese to English)
 
 ### Video Generation
 - MiniMax H3 support
@@ -50,18 +55,19 @@ If you wish to use it in another language, please enable your browser's built-in
 - ComfyUI
 - Python 3.10+
 
-Additional requirements depend on which features you want to use.
+Additional requirements (models and custom nodes) depend on which features you want to use.
 
 ## Installation
 
 1. Start ComfyUI
-2. Download the latest release
+2. Download the zip from the [Releases page](https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0) and extract it
 3. Run `start.bat`
 4. Open the interface in your browser
 
-Detailed setup instructions are available in:
+Detailed setup instructions (in Japanese) are available in:
 
-- `README_setup.txt`
+- [README_JP.md](README_JP.md)
+- `README_setup.txt` (included in the zip)
 
 ## Supported Generators
 
@@ -78,6 +84,11 @@ Detailed setup instructions are available in:
 - Models are not included.
 - Some workflows may require additional custom nodes.
 - Tested mainly with RTX 3060 12GB.
+- Image generation is mainly tested with Anima. Other model types (SDXL, Krea2, Flux2 Klein, Z-Image) are experimental.
+- Tag autocomplete data is not included, because it is distributed externally.
+  Download it from [here](https://civitai.com/models/2018479/danbooru-tag-complete-csv-tagcompleteand), then place `danbooru.csv` (required) and `danbooru-jp.csv` (Japanese translations, optional) in the `Data` folder.
+  The files in the zip have different names, so they need to be renamed. See [README_JP.md](README_JP.md) for details.
+  The app works without it; only the autocomplete will be unavailable.
 
 ## License
 
@@ -94,3 +105,8 @@ Special thanks to the ComfyUI community and the developers of:
 - Stable Audio 3
 - Irodori-TTS
 - Various custom node contributors
+
+## Author
+
+2026 ATF (えーてぃーえふ) Livryl
+https://x.com/ATFzwei
