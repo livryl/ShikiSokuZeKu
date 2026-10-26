@@ -60,7 +60,7 @@ Additional requirements (models and custom nodes) depend on which features you w
 ## Installation
 
 1. Start ComfyUI
-2. Download the zip from the [Releases page](https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0) and extract it
+2. Download the zip from the [Releases page](https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.2) and extract it
 3. Run `start.bat`
 4. Open the interface in your browser
 
