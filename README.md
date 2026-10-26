@@ -16,7 +16,7 @@ Generate images, videos, voices and music from a single interface.
 Please note that this app is primarily in Japanese.
 If you wish to use it in another language, please enable your browser's built-in translation feature.
 
-### Download (zip) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.0.0
+### Download (zip) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.02
 
 Please use the zip file listed under **Assets** on the release page (not "Source code").
 
