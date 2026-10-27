@@ -3,7 +3,7 @@
 Ce document est une traduction communautaire et peut ne pas toujours refléter la version la plus récente du projet.
 Pour obtenir les informations les plus à jour, veuillez consulter le fichier README.md.
 
-###Télécharger https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.01FR
+### Télécharger https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.01FR
 
 Application originale : **2026 ATF Livryl**, <https://x.com/ATFzwei>.
 
