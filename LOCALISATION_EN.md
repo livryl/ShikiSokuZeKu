@@ -1,4 +1,9 @@
-# English localization — Shiki Soku Ze Ku v5.37
+# English localization — Shiki Soku Ze Ku v1.01
+
+This document is a community translation and may not always reflect the latest version of the project.
+For the most up-to-date information, please refer to README.md.
+
+### Download https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.01EN
 
 This edition localizes the supplied Japanese source distribution into English. Original application credit: **2026 ATF Livryl**, <https://x.com/ATFzwei>.
 
