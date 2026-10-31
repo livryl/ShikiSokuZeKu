@@ -149,12 +149,6 @@ ComfyUIおよび各種モデル・カスタムノードを利用して動作し�
 すべての環境での動作は保証しません。
 
 ## 制作
-
-2026 えーてぃーえふ Livryl
-https://x.com/ATFzwei
-
-
-
 2026 ATF (えーてぃーえふ) Livryl
 https://x.com/ATFzwei
 
