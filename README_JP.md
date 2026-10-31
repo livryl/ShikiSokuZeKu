@@ -149,9 +149,8 @@ ComfyUIおよび各種モデル・カスタムノードを利用して動作し�
 すべての環境での動作は保証しません。
 
 ## 制作
-2026 ATF (えーてぃーえふ) Livryl
-https://x.com/ATFzwei
+2026 ATF (えーてぃーえふ) Livryl https://x.com/ATFzwei
 
-🌐 オフィシャルウェブサイト
-https://sites.google.com/view/ashentownfusion
+🌐 オフィシャルウェブサイト https://sites.google.com/view/ashentownfusion
+
 キャラクター図鑑・自作ゲーム・他のツール紹介はこちら
