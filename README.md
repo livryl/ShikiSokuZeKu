@@ -11,7 +11,7 @@ A unified multimedia generation frontend for ComfyUI.
 
 Generate images, videos, voices and music from a single interface.
 
-<img width="1492" height="939" alt="HVeDHrLacAAAvBf" src="https://github.com/user-attachments/assets/ee315a5b-4f30-433b-af5e-24e6ffd4646d" />
+<img width="1482" height="931" alt="2026-11-25 205331" src="https://github.com/user-attachments/assets/6af4511b-a1bc-48d5-8b73-0aaa2d058d96" />
 
 Please note that this app is primarily in Japanese.
 If you wish to use it in another language, please enable your browser's built-in translation feature.
@@ -45,7 +45,7 @@ Please use the zip file listed under **Assets** on the release page (not "Source
 - Emoji-based emotion control
 
 ### Music Generation
-- Stable Audio 3 integration
+- Stable Audio 3 & Acestep 1.5 integration
 - Music and sound effect generation
 - Optional prompt enhancement
 
