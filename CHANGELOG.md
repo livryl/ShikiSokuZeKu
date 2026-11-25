@@ -3,7 +3,7 @@
 ## Ver.1.0.5
 
 ### Added
-- Image: Implemented `batchcount`, allowing for the queuing of up to 800 image generation tasks at once.
+- Image: Implemented `batchcount` allowing for the queuing of up to 800 image generation tasks at once.
 
 - Music: Introduction of music generation capabilities via `Acestep v1.5`
 
