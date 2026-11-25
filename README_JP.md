@@ -4,7 +4,7 @@
 
 ComfyUIを簡単に扱うための統合UIです。
 
-### ダウンロードはこちら(Zipです) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.02
+### ダウンロードはこちら(Zipです) → https://github.com/livryl/ShikiSokuZeKu/releases/tag/v1.05
 
 ページ下の **Assets** にある zip をダウンロードしてください(「Source code」ではありません)。
 
