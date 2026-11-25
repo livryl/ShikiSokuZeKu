@@ -6,6 +6,7 @@
 - Image: Implemented batchcount allowing for the queuing of up to 800 image generation tasks at once.
 
 - Music: Introduction of music generation capabilities via Acestep v1.5
+- Added fields for BPM and key; while intended for Acestep, in Stable Audio, these will be appended to the prompt.
 
 ### Fixed
 - Image: ClipSkip has been moved to the settings screen.
